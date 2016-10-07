@@ -1,0 +1,4 @@
+<batch>
+	<filename id="file1" path="lsout.txt" />
+	<exec id="cmd1" path="ls" out='file1' />
+</batch>
