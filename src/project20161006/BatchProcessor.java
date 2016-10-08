@@ -9,7 +9,6 @@ import java.util.Map;
   
  
 /**
- * @author nana.xu
  * This is the main class which drives both the parsing of the batch file into commands and 
  * the execution of those commands
  *
